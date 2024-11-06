@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://pixabay.com/get/gd4f27cfb0d1ac10f09707f46b48f29e0b1547f3d871dfe370ed761b352301b17333c1dbdc12c24c5356820ef5ec5358c6d6c4ebecf1106f19d10d9ec5df2bb0b2f776c4a4f0dc63108d380b7475735d5_1280.jpg" alt="AI generated man programmer">
+  <img src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg">
 </p>
 
 
