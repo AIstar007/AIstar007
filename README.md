@@ -21,9 +21,9 @@
 
 ## About Me :
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering 💻 in VIT Bhopal.
-- 🌱 I’m currently learning Android Developing
-- 🤝 I’m looking to collaborate with other developers and build cool projectsD:\Alen\GitHub\first-contributions
-- 🎯 Goals: Learning Android Development.
+- 🌱 I am fond of learning new technologies.
+- 🤝 I’m looking to collaborate with other developers and build cool projects.
+- 🎯 Goals: To Learn New Technologies.
 - 📫 How to reach me <u>*alen.thomas2021@vitbhopal.ac.in*</u>
 
 
