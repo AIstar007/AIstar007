@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="./images/codder.png">
+  <img src="https://pixabay.com/illustrations/ai-generated-man-programmer-8684869/">
 </p>
 
 
@@ -44,8 +44,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img alt="kotlin" width="35px" src="./images/kotlin.png"/></a>
-<a href=" https://github.com/" target="_blank" rel="noreferrer"> <img src="./images/github.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img alt="kotlin" width="35px" src="https://kotlinlang.org/"/></a>
+<a href=" https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/" alt="github" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
