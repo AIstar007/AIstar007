@@ -13,16 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=red&style=flat"/>
 </p>
 
+
 <p align="center">
   <img src="https://pixabay.com/illustrations/ai-generated-man-programmer-8684869/">
 </p>
 
 
-
 ## About Me :
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering 💻 in VIT Bhopal.
 - 🌱 I’m currently learning Android Developing
-- 🤝 I’m looking to collaborate with other developers and build cool projects
+- 🤝 I’m looking to collaborate with other developers and build cool projectsD:\Alen\GitHub\first-contributions
 - 🎯 Goals: Learning Android Development.
 - 📫 How to reach me <u>*alen.thomas2021@vitbhopal.ac.in*</u>
 
