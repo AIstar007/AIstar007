@@ -13,7 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=red&style=flat"/>
 </p>
 
-
+<p align="center">
+  <img src="https://pixabay.com/illustrations/ai-generated-man-programmer-8684869/">
+</p>
 
 
 
