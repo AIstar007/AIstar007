@@ -21,7 +21,7 @@
 
 
 ## About Me :
-- 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering 💻 in VIT Bhopal.
+- 👨🏻‍🎓 I’m currently pursuing B.Tech in Computer Science Engineering Specialization in AI and ML 💻 in VIT Bhopal.
 - 🌱 I am fond of learning new technologies.
 - 🤝 I’m looking to collaborate with other developers and build cool projects.
 - 🎯 Goals: To Learn New Technologies.
