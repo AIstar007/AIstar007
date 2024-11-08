@@ -57,4 +57,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&count_private=true" />
 </p>
 
-
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=vision-friendly-dark" />
+</p>
