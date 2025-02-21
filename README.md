@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="" alt="Programmer" width="60%" />
+  <img src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg" alt="Programmer" width="60%" />
 </p>
 
 
