@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg" alt="Programmer" width="60%">
+  <img src="https://files.oaiusercontent.com/file-KdWj7xXQDZXPMQ4Sht37zj?se=2025-02-21T03%3A59%3A49Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5319cd9d-105f-45dd-b5d8-ae5e578b4b44.webp&sig=Wj1odEtAIQ7JohE8Eo5OC%2BxYCYfZw3KBZTu98UVj8Ls%3D" alt="Programmer" width="60%">
 </p>
 
 
