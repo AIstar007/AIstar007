@@ -16,8 +16,9 @@
 
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-7KKWkEwqfpTt8TdKx9Cd3S?se=2025-02-21T04%3A01%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D77b53352-ab20-41cf-964d-89840a861dcf.webp&sig=We%2B0aB4%2BuIXQbdEPj%2BP5DZgE19h8ngLOe3qQD9qx8ec%3D" alt="Programmer" width="60%">
+  <img src="./assets/programmer.webp" alt="Programmer" width="60%">
 </p>
+
 
 
 ## About Me :
