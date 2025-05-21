@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="./assets/programmer.webp" alt="Programmer" width="60%">
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?ga=GA1.1.364220156.1739546750&semt=ais_hybrid&w=740" alt="Programmer" width="60%">
 </p>
 
 
