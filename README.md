@@ -44,34 +44,40 @@
 ## Languages and Tools:
 
 <p align="left">
- <a href="https://www.cprogramming.com/">
-  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-</a>
-<a href="https://www.w3schools.com/cpp/">
-  <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-</a>
-<a href="https://www.w3.org/html/">
-  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-</a>
-<a href="https://kotlinlang.org">
-  <img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
-</a>
-<a href="https://github.com/">
-  <img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-</a>
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-</a>
+  <a href="https://www.cprogramming.com/">
+    <img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin-right: 10px;" />
+  </a>
+  <a href="https://kotlinlang.org">
+    <img alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/">
+    <img alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="margin-right: 10px;" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="margin-right: 10px;" />
+  </a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&count_private=true&show_icons=true&theme=radical" />
-</p>,
+<br />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&count_private=true&show_icons=true&theme=radical" />
 </p>
 
+<br />
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&count_private=true" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=radical" />
 </p>
