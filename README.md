@@ -62,20 +62,20 @@
 ## Languages and Tools:
 
 <a href="https://www.cprogramming.com/">
-  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 </a>
 <a href="https://www.w3schools.com/cpp/">
-  <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="left" alt="C++" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 </a>
 <a href="https://www.w3.org/html/">
-  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 </a>
 <a href="https://kotlinlang.org">
-  <img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
+  <img align="left" alt="Kotlin" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
 </a>
 <a href="https://github.com/">
-  <img align="left" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+  <img align="left" alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 </a>
 <a href="https://git-scm.com/">
-  <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+  <img align="left" alt="Git" width="45px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </a>
