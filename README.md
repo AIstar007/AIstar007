@@ -43,6 +43,7 @@
 
 ## Languages and Tools:
 
+<p align="left">
  <a href="https://www.cprogramming.com/">
   <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 </a>
@@ -61,11 +62,11 @@
 <a href="https://git-scm.com/">
   <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </a>
-
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&count_private=true&show_icons=true&theme=radical" />
-</p>
+</p>,
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&count_private=true" />
