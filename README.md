@@ -45,22 +45,22 @@
 
 <p align="left">
   <a href="https://www.cprogramming.com/" style="text-decoration: none; color: #0d1117;">
-    <img alt="c" width="60" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+    <img alt="c" width="45" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   </a>
   <a href="https://www.w3schools.com/cpp/" style="text-decoration: none; color: #0d1117;">
-    <img alt="cplusplus" width="60" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="cplusplus" width="45" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   </a>
   <a href="https://www.w3.org/html/" style="text-decoration: none; color: #0d1117;">
-    <img alt="html5" width="60" height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+    <img alt="html5" width="45" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   </a>
   <a href="https://kotlinlang.org" style="text-decoration: none; color: #0d1117;">
-    <img alt="kotlin" width="60" height="65" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
+    <img alt="kotlin" width="45" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
   </a>
   <a href="https://github.com/" style="text-decoration: none; color: #0d1117;">
-    <img alt="github" width="60" height="65" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <img alt="github" width="45" height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
   </a>
   <a href="https://git-scm.com/" style="text-decoration: none; color: #0d1117;">
-    <img alt="git" width="60" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+    <img alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   </a>
 </p>
 
