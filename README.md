@@ -45,7 +45,7 @@
 
 <p align="left">
  <a href="https://www.cprogramming.com/">
-  <img align="left" alt="C" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 </a>
 <a href="https://www.w3schools.com/cpp/">
   <img align="left" alt="C++" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
