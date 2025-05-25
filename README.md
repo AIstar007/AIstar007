@@ -28,6 +28,24 @@
 - 🎯 Goals: To Learn New Technologies.
 - 📫 How to reach me <u>*alen.thomas2021@vitbhopal.ac.in*</u>
 
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&count_private=true&show_icons=true&theme=radical" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&count_private=true" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=radical" />
+</p>
+
 
 ## Connect with me :
 
