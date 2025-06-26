@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.openai.com/chat-uploads/4263e25d-10a5-454a-89c7-439d91716bd2/A_flat-style_digital_illustration_depicts_a_cartoo.png" alt="Hacker Cartoon" width="500" />
+  <img src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/images/computer.png" alt="Computer" width="500" />
 </p>
 
 
