@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true&locale=hi" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogrammer&psig=AOvVaw1ecEQCIJPEsFrbr92875R6&ust=1751052542799000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDP9pLpj44DFQAAAAAdAAAAABAE" />
 </p>
 
 
@@ -45,6 +45,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true&locale=hi" />
 </p>
+
 
 
 ## Connect with me :
