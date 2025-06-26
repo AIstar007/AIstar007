@@ -26,7 +26,7 @@
 - 🌱 I am fond of learning new technologies.
 - 🤝 I’m looking to collaborate with other developers and build cool projects.
 - 🎯 Goals: To Learn New Technologies.
-- 📫 How to reach me <u>*alen.thomas2021@vitbhopal.ac.in*</u>
+- 📫 How to reach me <u>*alenthomas1809@gmail.com*</u>
 
 <br />
 
@@ -50,7 +50,7 @@
 
 ## Connect with me :
 
-<a href="mailto:alen.thomas2021@vitbhopal.ac.in">
+<a href="mailto:alenthomas1809@gmail.com">
   <img align="left" alt="Alen Thomas - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
 </a>
 
