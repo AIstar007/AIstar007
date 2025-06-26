@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=keyword&page=1&position=0&uuid=eb9b0072-2340-4293-8739-ed1629cca142&query=Programmer.jpg" alt="Programmer Image" width="500" />
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-flat-cartoon-style_11602236.jpg" alt="Hacker Operating Laptop" width="500" />
 </p>
 
 
