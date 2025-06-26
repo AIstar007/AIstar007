@@ -43,7 +43,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical" />
 </p>
 
 
