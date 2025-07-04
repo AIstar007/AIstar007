@@ -4,15 +4,13 @@
 
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/AIstar007/AIstar007">
-  <img src="https://badges.pufler.dev/years/AIstar007">
-  <img src="https://badges.pufler.dev/updated/AIstar007/AIstar007">
-  <img src="https://badges.pufler.dev/created/AIstar007/AIstar007">
-  <img src="https://badges.pufler.dev/repos/AIstar007">
-  <img src="https://badges.pufler.dev/commits/monthly/AIstar007">
-  <img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=red&style=flat">
-  <img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="followers"/>
+  <img src="https://profile-counter.glitch.me/AIstar007/count.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" />
 </p>
+
 
 
 <p align="center">
