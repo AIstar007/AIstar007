@@ -5,9 +5,6 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AIstar007/count.svg" height="30"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=tokyonight" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AIstar007&theme=tokyonight" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=tokyonight" height="130"/>
   <img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" height="30"/>
 </p>
 
