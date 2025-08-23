@@ -145,11 +145,11 @@
 
 ---
 
-## <div align="center">🏆 GitHub Trophies 🏆</div>
+## <div align="center">## 🏆 GitHub Trophies 🏆
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
