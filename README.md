@@ -75,7 +75,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E57373)](mailto:alenthomas1809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=66B2FF)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
 [![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/AIstar007)
 
 </div>
