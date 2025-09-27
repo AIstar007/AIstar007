@@ -74,9 +74,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenthomas1809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
-[![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIstar007)
+[![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E57373)](mailto:alenthomas1809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4DA3D4)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
+[![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/AIstar007)
 
 </div>
 
