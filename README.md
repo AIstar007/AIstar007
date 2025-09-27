@@ -248,20 +248,11 @@
 ## <div align="center">📚 FEATURED REPOSITORIES 📚</div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-[![RAG Chatbot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-1&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-1)
+| Repository | Repository |
+|------------|------------|
+| [![RAG Chatbot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-1&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-1) | [![Email RAG Agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-3.-Group-&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-3.-Group-) |
 
-</td>
-<td width="50%">
-
-[![Email RAG Agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-3.-Group-&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-3.-Group-)
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -269,11 +260,13 @@
 ## <div align="center">🐍 CONTRIBUTION ECOSYSTEM 🐍</div>
 
 <div align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg" />
 </picture>
+
 </div>
 
 ---
