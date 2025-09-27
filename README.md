@@ -127,7 +127,7 @@
 </td>
   
 <td align="center">
-<h3>🏅 Language Mastery</h3>
+<h3>🏅 Languages</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
 </td>
 </tr>
