@@ -1,7 +1,7 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=800&color=58A6FF,F39C12,FF6B6B,00D9FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi+👋,+I'm+Alen+Thomas;🤖+AI/ML+Engineer+%7C+☁️+Cloud+Architect;🚀+Turning+Complex+Problems+into+Elegant+Solutions;✨+Building+the+Future,+One+Line+at+a+Time" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=800&color=58A6FF,F39C12,FF6B6B,00D9FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Alen%20Thomas;%F0%9F%A4%96%20AI%2FML%20Engineer%20%7C%20%EF%B8%8F%20Cloud%20Architect;%F0%9F%9A%80%20Turning%20Complex%20Problems%20into%20Elegant%20Solutions;%E2%9C%A8%20Building%20the%20Future%2C%20One%20Line%20at%20a%20Time" alt="Dynamic Typing Animation" />
 </div>
 
 <div align="center">
@@ -56,17 +56,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
 ### 🎖️ Professional Highlights
-- 🏆 **5+ Years** in Software Development
-- 🌟 **50+ Projects** Delivered Successfully  
-- 🔥 **Expert-level** Python & ML Engineering
+- 🏆 **0-1 Years** in Software Development 
+- 🔥 **AI & ML** Engineer
 - ⚡ **Cloud-Native** Architecture Specialist
 - 📱 **Mobile-First** Development Approach
 
-### 🌐 Impact Areas
-- **Healthcare Tech** - Diagnostic AI Systems
-- **FinTech Solutions** - Fraud Detection ML
-- **EdTech Platforms** - Personalized Learning
-- **Enterprise Tools** - Automation & Analytics
 
 </td>
 </tr>
