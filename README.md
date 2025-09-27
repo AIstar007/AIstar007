@@ -141,7 +141,7 @@
 
 <div align="center">
 <h3>📊 Contribution Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&hide_border=true&custom_title=Annual%20Contribution%20Timeline" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -149,7 +149,7 @@
 ## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=3&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
