@@ -1,7 +1,7 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-marquee.vercel.app/?font=Orbitron&size=28&duration=15000&pause=0&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Alen+Thomas+-+🌟+Evolving+Engineer+|+🚀+Tech+Explorer+|+🌐+Passionate+About+Emerging+Technologies+|+💡+Pushing+Boundaries+in+the+Digital+World" alt="Scrolling LED Banner" />
+  <img src="./assets/alenthomas_marquee.gif" alt="Alen Thomas marquee banner" />
 </div>
 
 <div align="center">
