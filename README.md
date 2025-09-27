@@ -245,27 +245,11 @@
 
 ---
 
-## <div align="center">📚 FEATURED REPOSITORIES 📚</div>
-
-<div align="center">
-
-| Repository | Repository |
-|------------|------------|
-| [![RAG Chatbot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-1&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-1) | [![Email RAG Agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AIstar007&repo=GEN-AI-Assignment-3.-Group-&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/AIstar007/GEN-AI-Assignment-3.-Group-) |
-
-</div>
-
----
-
 ## <div align="center">🐍 CONTRIBUTION ECOSYSTEM 🐍</div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -288,17 +272,17 @@
 ## <div align="center">📈 ANALYTICS & INSIGHTS 📈</div>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/AIstar007?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117)
-![Commits](https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117)
+
+<img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits" />
 
 </div>
 
 <div align="center">
 <h3>🎯 Performance Overview</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
