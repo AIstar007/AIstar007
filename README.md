@@ -1,7 +1,7 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=800&color=gradient&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi+👋,+I'm+Alen+Thomas;🤖+AI/ML+Engineer+%7C+☁️+Cloud+Architect;🚀+Turning+Complex+Problems+into+Elegant+Solutions;✨+Building+the+Future,+One+Line+at+a+Time" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=2500&pause=800&color=58A6FF,F39C12,FF6B6B,00D9FF&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hi+👋,+I'm+Alen+Thomas;🤖+AI/ML+Engineer+%7C+☁️+Cloud+Architect;🚀+Turning+Complex+Problems+into+Elegant+Solutions;✨+Building+the+Future,+One+Line+at+a+Time" alt="Dynamic Typing Animation" />
 </div>
 
 <div align="center">
