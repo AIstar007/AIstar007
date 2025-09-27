@@ -8,6 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alen%20Thomas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20into%20Digital%20Reality&descAlignY=51&descAlign=50"/>
 </div>
 
+
 <div align="center">
   
 ![Matrix SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=14&duration=30&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=████████████████████████████████████████████████████████;█+SYSTEM+INITIALIZED+█+STATUS%3A+ONLINE+█+USER%3A+ALEN+█;████████████████████████████████████████████████████████)
