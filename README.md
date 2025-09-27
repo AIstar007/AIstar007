@@ -1,7 +1,7 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="./assets/alenthomas_marquee.gif" alt="Alen Thomas marquee banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2500&pause=1000&color=58A6FF,F39C12,FF6B6B,00D9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi%20%F0%9F%91%8B%2C%20I%20am%20Alen%20Thomas;💡%20Tech%20Enthusiast" alt="Typing Animation" />
 </div>
 
 <div align="center">
