@@ -56,17 +56,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
 ### 🎖️ Professional Highlights
-- 🏆 **5+ Years** in Software Development
-- 🌟 **50+ Projects** Delivered Successfully  
-- 🔥 **Expert-level** Python & ML Engineering
+- 🏆 **0-1 Years** in Software Development
+- 🔥 **AI & ML** Engineer
 - ⚡ **Cloud-Native** Architecture Specialist
 - 📱 **Mobile-First** Development Approach
 
-### 🌐 Impact Areas
-- **Healthcare Tech** - Diagnostic AI Systems
-- **FinTech Solutions** - Fraud Detection ML
-- **EdTech Platforms** - Personalized Learning
-- **Enterprise Tools** - Automation & Analytics
 
 </td>
 </tr>
@@ -129,11 +123,12 @@
 <tr>
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
-<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AIstar007&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Alen's%20Code%20Analytics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </td>
+  
 <td align="center">
 <h3>🏅 Language Mastery</h3>
-<img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&custom_title=Technology%20Stack" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
 </td>
 </tr>
 </table>
@@ -141,7 +136,7 @@
 
 <div align="center">
 <h3>🔥 Development Streak</h3>
-<img src="https://streak-stats.demolab.com?user=AIstar007&theme=gotham&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
