@@ -57,10 +57,9 @@ Developer:
   status: "Building the Future"
   
 Skills:
-  - AI_ML_Expert: 95%
-  - Cloud_Architect: 90%
-  - Android_Dev: 85%
-  - Full_Stack: 80%
+  - AI_ML
+  - Cloud_Architect
+  - Android_Dev
   
 Current_Mission:
   - 🤖 "Crafting Next-Gen ML Applications"
