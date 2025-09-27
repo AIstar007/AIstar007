@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Tech+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+%7C+Code+Architect+%F0%9F%8F%97%EF%B8%8F;Turning+Dreams+into+Digital+Reality+%E2%9C%A8" alt="Dynamic Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=Alen%20Thomas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20Innovating%20%7C%20Creating%20%7C%20Inspiring%20%F0%9F%9A%80&descAlignY=55&descAlign=50&descSize=18"/>
-</div>
 
 ---
 
