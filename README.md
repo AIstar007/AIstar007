@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+</div>
+
+<div align="center">
   
 ![Matrix SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=14&duration=30&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=████████████████████████████████████████████████████████;█+SYSTEM+INITIALIZED+█+STATUS%3A+ONLINE+█+USER%3A+ALEN+█;████████████████████████████████████████████████████████)
 
