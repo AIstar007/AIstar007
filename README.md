@@ -89,6 +89,17 @@
 ## <div align="center">🛠️ TECHNOLOGY ECOSYSTEM 🛠️</div>
 
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
+</div>
+
+<div align="center">
 
 ### 💻 **PROGRAMMING LANGUAGES**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)
@@ -140,7 +151,7 @@
 
 <div align="center">
 <h3>🔥 Development Streak</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
