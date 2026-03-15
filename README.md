@@ -1,324 +1,268 @@
-# <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
+<!-- ═══════════════════════════════════════════════════════════════
+     ALEN THOMAS — GITHUB PROFILE README
+     Designed to inspire, shock, and captivate every visitor.
+═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:0a0a0a&height=250&section=header&text=ALEN%20THOMAS&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=Building%20the%20future%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=60&descSize=20&descColor=ffffff&stroke=00D9FF&strokeWidth=2"/>
+
 </div>
 
+<!-- TYPING TAGLINE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alen%20Thomas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20into%20Digital%20Reality&descAlignY=51&descAlign=50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🧠+AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;☁️+Cloud-Native+Architect+%7C+Android+Dev;🚀+Turning+bold+ideas+into+real+products;⚡+If+it+can+be+imagined%2C+it+can+be+built." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
-</div>
+<br/>
 
+<!-- SOCIAL BADGES — CLEAN ROW -->
 <div align="center">
-  
-![Matrix SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=14&duration=30&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=████████████████████████████████████████████████████████;█+SYSTEM+INITIALIZED+█+STATUS%3A+ONLINE+█+USER%3A+ALEN+█;████████████████████████████████████████████████████████)
+
+[![Email](https://img.shields.io/badge/Gmail-alenthomas1809@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alenthomas1809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alen%20Thomas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
+[![GitHub](https://img.shields.io/badge/GitHub-AIstar007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AIstar007)
+![Profile Views](https://komarev.com/ghpvc/?username=AIstar007&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## <div align="center">⚡ DEVELOPER MATRIX ⚡</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" align="left">
+<td width="55%">
 
-```yaml
-🧬 Alen.exe Profile:
-  version: "2024.1.0"
-  architecture: "Full-Stack"
-  status: "Production Ready"
-  
-🎯 Core Competencies:
-  artificial_intelligence: 
-    level: "Expert"
-    focus: ["Deep Learning", "Computer Vision", "NLP"]
-  cloud_computing:
-    platforms: ["AWS", "GCP", "Azure"]
-    specialization: "Serverless & Containerization"
-  mobile_development:
-    primary: "Android (Kotlin/Java)"
-    integration: "ML Kit, Firebase"
-  
-🚀 Current Mission:
-  objective: "Revolutionizing user experiences"
-  approach: "AI-first development methodology"
-  impact: "Scalable solutions for real-world problems"
-  
-💡 Innovation Philosophy:
-  - "Simplicity is the ultimate sophistication"
-  - "Code is poetry, architecture is art"
-  - "User experience trumps technical complexity"
+```python
+class AlenThomas:
+
+    def __init__(self):
+        self.name        = "Alen Thomas"
+        self.role        = "AI/ML Engineer & Full-Stack Dev"
+        self.location    = "India 🇮🇳"
+        self.languages   = ["Python", "Java", "Kotlin",
+                            "JavaScript", "C++"]
+        self.focus       = ["Deep Learning", "Computer Vision",
+                            "NLP", "Cloud Architecture",
+                            "Android Development"]
+        self.philosophy  = "Ship fast. Learn faster. Repeat."
+
+    def current_mission(self):
+        return [
+            "🔬 Research → real-world AI products",
+            "📱 Native Android apps with on-device ML",
+            "☁️ Serverless & containerised cloud systems",
+            "🤝 Open to collabs that actually matter",
+        ]
+
+    def fun_fact(self):
+        return "I debug better at 2 AM than at 2 PM 🌙"
+
+me = AlenThomas()
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
-
-### 🎖️ Professional Highlights
-- 🏆 **0-1 Years** in Software Development
-- 🔥 **AI & ML** Engineer
-- ⚡ **Cloud-Native** Architecture Specialist
-- 📱 **Mobile-First** Development Approach
-
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Dev Animation"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=🔥+Available+for+exciting+collaborations+and+opportunities!;💼+Open+to+freelance+projects+and+consulting+work!;🌟+Let's+build+something+extraordinary+together!)](https://git.io/typing-svg)
+---
 
-</div>
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E57373)](mailto:alenthomas1809@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=66B2FF)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
-[![Portfolio](https://img.shields.io/badge/View_My_Work-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555)](https://github.com/AIstar007)
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📱 Mobile & Web
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## <div align="center">🛠️ TECHNOLOGY ECOSYSTEM 🛠️</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF" />
+
 </div>
 
 <div align="center">
+<img src="https://streak-stats.demolab.com?user=AIstar007&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
-### 💻 **PROGRAMMING LANGUAGES**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=323330)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=659AD2)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF)
-
-### 🧠 **AI/ML FRAMEWORKS**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black&labelColor=FFD21E)
-
-### ☁️ **CLOUD & INFRASTRUCTURE**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
-
-### 📱 **MOBILE & WEB DEVELOPMENT**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=tokyo-night&hide_border=true&custom_title=Alen%27s%20Contribution%20Map&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B35" />
 </div>
 
 ---
 
-## <div align="center">📊 PERFORMANCE DASHBOARD 📊</div>
+## 🏆 Trophy Case
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<h3>📈 GitHub Statistics</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</td>
-  
-<td align="center">
-<h3>🏅 Languages</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<h3>🔥 Development Streak</h3>
-<img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<h3>📊 Contribution Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
 </div>
 
 ---
 
-## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
+## 🚀 What I'm Building
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Portfolio Animation"/>
-
-</div>
-
----
-
-## <div align="center">🚀 PROJECT PORTFOLIO 🚀</div>
+> _Not just projects — **products** people actually use._
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
 
-### 🤖 **AI/ML INNOVATIONS**
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<td width="50%" valign="top">
 
-**🧠 Neural Network Architectures**
-- Computer Vision Systems
-- Natural Language Processing
-- Predictive Analytics Models
-- Real-time ML Inference
-
-**📊 Data Science Projects**
-- Advanced Statistical Analysis
-- Feature Engineering Pipelines
-- Model Optimization Techniques
-- A/B Testing Frameworks
-
-![Status](https://img.shields.io/badge/Status-🔥_Active_Development-brightgreen?style=flat-square)
+### 🧠 AI / ML Systems
+- **Computer Vision** — real-time object detection & segmentation
+- **NLP Pipelines** — text classification, summarisation, RAG
+- **On-device ML** — TFLite & ML Kit on Android
+- **AutoML** — automated feature engineering & model selection
 
 </td>
-<td width="50%" align="center">
 
-### ☁️ **CLOUD ARCHITECTURE**
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<td width="50%" valign="top">
 
-**🏗️ Scalable Solutions**
-- Microservices Architecture
-- Serverless Computing
-- Container Orchestration
-- API Gateway Design
-
-**⚡ Performance Engineering**
-- Auto-scaling Systems
-- Load Balancing Strategies
-- Database Optimization
-- Caching Mechanisms
-
-![Status](https://img.shields.io/badge/Status-🚀_Production_Ready-success?style=flat-square)
+### ☁️ Cloud Architecture
+- **Microservices** with Docker + Kubernetes on GKE/EKS
+- **Serverless** event-driven pipelines on AWS Lambda & GCF
+- **CI/CD** with GitHub Actions & automated testing
+- **Observability** — logging, tracing, alerting at scale
 
 </td>
+
 </tr>
 <tr>
-<td width="50%" align="center">
 
-### 📱 **MOBILE EXCELLENCE**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<td width="50%" valign="top">
 
-**📲 Android Development**
-- Native App Development
-- ML Kit Integration
-- Firebase Backend Services
-- Material Design Implementation
-
-**🎨 User Experience Focus**
-- Intuitive UI/UX Design
-- Performance Optimization
-- Accessibility Standards
-- Cross-device Compatibility
-
-![Status](https://img.shields.io/badge/Status-📱_User_Testing-orange?style=flat-square)
+### 📱 Android & Mobile
+- **Native Android** apps in Kotlin — clean MVVM architecture
+- **Firebase** backend — auth, Firestore, Cloud Messaging
+- **Material You** design language & adaptive layouts
+- **Performance tuning** — cold start, battery, memory
 
 </td>
-<td width="50%" align="center">
 
-### 🌐 **FULL-STACK SOLUTIONS**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<td width="50%" valign="top">
 
-**🔧 End-to-End Development**
-- RESTful API Design
-- Database Architecture
-- Frontend Frameworks
-- DevOps Integration
-
-**🔐 Security & Compliance**
-- Authentication Systems
-- Data Encryption
-- GDPR Compliance
-- Security Auditing
-
-![Status](https://img.shields.io/badge/Status-🛠️_Continuous_Integration-blue?style=flat-square)
+### 🌐 Full-Stack Web
+- **REST & GraphQL** API design with Node.js / FastAPI
+- **React** frontends — hooks, state management, SSR
+- **PostgreSQL + Redis** — schema design & query optimisation
+- **Security** — OAuth2, JWT, rate limiting, OWASP top 10
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+## 🌊 Contribution Snake
+
 <div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AIstar007/AIstar007/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
----
-
-## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" />
-</div>
-
-<div align="center">
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  ADD THIS WORKFLOW FILE TO GENERATE THE SNAKE ANIMATION  ║
+  ║  Path: .github/workflows/snake.yml                       ║
+  ╚══════════════════════════════════════════════════════════╝
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=6000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=%22Innovation+is+seeing+what+everybody+has+seen...%22;%22...and+thinking+what+nobody+else+has+thought.%22;%22Code+is+poetry%2C+architecture+is+art%2C+impact+is+everything.%22)](https://git.io/typing-svg)
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: AIstar007
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+---
+
+## 💬 A Quote I Live By
+
+<div align="center">
+
+> **"The people who are crazy enough to think they can change the world are the ones who do."**
+> — *Steve Jobs*
 
 </div>
 
 ---
 
-## <div align="center">📈 ANALYTICS & INSIGHTS 📈</div>
+## 🤝 Let's Connect & Build
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=🔥+Open+to+collaborations+%26+freelance+work;💼+Building+AI-first+products+that+matter;🌍+Let%27s+create+something+the+world+hasn%27t+seen+yet." />
 
-</div>
+<br/><br/>
 
-<div align="center">
-<h3>🎯 Performance Overview</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Summary"/>
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenthomas1809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIstar007)
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=fadeIn&fontColor=ffffff"/>
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+exploring+my+digital+universe!;Ready+to+collaborate+on+groundbreaking+projects%3F;Let's+connect+and+create+something+extraordinary!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00D9FF&height=120&section=footer&animation=fadeIn"/>
 
-</div>
+<sub>⭐ If something here inspired you — star a repo. It means more than you think. ⭐</sub>
 
-<div align="center">
-<h2>🌟 "The best time to plant a tree was 20 years ago. The second best time is now." 🌟</h2>
-<h3>⭐ If you found value here, please star my repositories and let's build the future together! ⭐</h3>
 </div>
