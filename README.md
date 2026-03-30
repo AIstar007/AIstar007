@@ -143,7 +143,7 @@
   
 <td align="center">
 <h3>🏅 Languages</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -164,7 +164,7 @@
 ## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
