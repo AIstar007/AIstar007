@@ -138,7 +138,7 @@
 <tr>
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 </td>
   
 <td align="center">
