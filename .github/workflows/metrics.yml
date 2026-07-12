@@ -31,6 +31,6 @@ jobs:
 
           plugin_followup: yes
 
-          plugin_achievements: yes
+          plugin_achievements: no
 
           filename: github-metrics.svg
