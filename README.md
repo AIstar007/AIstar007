@@ -136,15 +136,27 @@
 <div align="center">
 <table>
 <tr>
+
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2"
+alt="GitHub Stats"/>
+
 </td>
-  
+
 <td align="center">
 <h3>🏅 Languages</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400&v=2"
+alt="Technology Stack"/>
+
 </td>
+
 </tr>
 </table>
 </div>
