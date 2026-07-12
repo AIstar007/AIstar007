@@ -328,32 +328,6 @@ alt="Most Commit Language"/>
 
 ---
 
-## <div align="center">⭐ FEATURED REPOSITORIES ⭐</div>
-
-<div align="center">
-
-<a href="https://github.com/AIstar007/Agent-Skills">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=Agent-Skills&theme=radical"/>
-</a>
-
-<a href="https://github.com/AIstar007/YOUR_SECOND_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_SECOND_REPO&theme=radical"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/AIstar007/YOUR_THIRD_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_THIRD_REPO&theme=radical"/>
-</a>
-
-<a href="https://github.com/AIstar007/YOUR_FOURTH_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_FOURTH_REPO&theme=radical"/>
-</a>
-
-</div>
-
----
-
 ## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
 
 <div align="center">
