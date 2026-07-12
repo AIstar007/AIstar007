@@ -172,6 +172,11 @@ alt="Most Used Languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+<h3>📊 Contribution Activity</h3>
+<img src="https://ghchart.rshah.org/58A6FF/AIstar007&theme=radical&hide_border=true&custom_title=Alen's%20Contribution%20Heatmap" alt="GitHub Contribution Heatmap" />
+</div>
+
 ---
 
 ## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
@@ -323,6 +328,32 @@ alt="Most Commit Language"/>
 
 ---
 
+## <div align="center">⭐ FEATURED REPOSITORIES ⭐</div>
+
+<div align="center">
+
+<a href="https://github.com/AIstar007/Agent-Skills">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=Agent-Skills&theme=radical"/>
+</a>
+
+<a href="https://github.com/AIstar007/YOUR_SECOND_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_SECOND_REPO&theme=radical"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/AIstar007/YOUR_THIRD_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_THIRD_REPO&theme=radical"/>
+</a>
+
+<a href="https://github.com/AIstar007/YOUR_FOURTH_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AIstar007&repo=YOUR_FOURTH_REPO&theme=radical"/>
+</a>
+
+</div>
+
+---
+
 ## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
 
 <div align="center">
@@ -355,13 +386,26 @@ alt="Most Commit Language"/>
 
 ---
 
+## <div align="center">🌌 DEVELOPER METRICS 🌌</div>
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github.com/lowlighter/metrics/raw/master/.github/readme/metrics.plugin.isocalendar.svg"
+alt="Developer Metrics"/>
+
+</div>
+
+---
+
 ## <div align="center">🌃 MY GITHUB SKYLINE 🌃</div>
 
 <div align="center">
 
 <img
 width="100%"
-src="YOUR_SKYLINE_IMAGE_URL"
+src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
 alt="GitHub Skyline"/>
 
 </div>
