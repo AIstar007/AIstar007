@@ -177,7 +177,41 @@ alt="Most Used Languages"/>
 ## <div align="center">🏆 ACHIEVEMENT GALLERY 🏆</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AIstar007&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical"
+alt="Profile Details"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIstar007&theme=radical&utcOffset=5.5"
+alt="Productive Time"/>
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIstar007&theme=radical"
+alt="Most Commit Language"/>
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 ---
