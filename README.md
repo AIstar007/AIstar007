@@ -378,7 +378,7 @@ alt="Developer Metrics"/>
 <div align="center">
 
 <img
-width="50%"
+width="60%"
 src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
 alt="GitHub Skyline"/>
 
