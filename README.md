@@ -173,8 +173,8 @@ alt="Most Used Languages"/>
 </div>
 
 <div align="center">
-<h3>📊 Contribution Activity</h3>
-<img src="https://ghchart.rshah.org/58A6FF/AIstar007&theme=radical&hide_border=true&custom_title=Alen's%20Contribution%20Heatmap" alt="GitHub Contribution Heatmap" />
+<h3>📊 Contribution Heatmap</h3>
+<img src="https://ghchart.rshah.org/58A6FF/AIstar007" alt="GitHub Contribution Heatmap" />
 </div>
 
 ---
