@@ -365,7 +365,7 @@ alt="Most Commit Language"/>
 <div align="center">
 
 <img
-width="40%"
+width="30%"
 src="./github-metrics.svg"
 alt="Developer Metrics"/>
 
@@ -378,7 +378,7 @@ alt="Developer Metrics"/>
 <div align="center">
 
 <img
-width="100%"
+width="30%"
 src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
 alt="GitHub Skyline"/>
 
