@@ -134,54 +134,29 @@
 ## <div align="center">📊 PERFORMANCE DASHBOARD 📊</div>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
-
-### 📈 GitHub Statistics
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"
-alt="GitHub Stats"/>
-
+<h3>📈 GitHub Statistics</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </td>
-
+  
 <td align="center">
-
-### 🏅 Most Used Languages
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"
-alt="Top Languages"/>
-
+<h3>🏅 Languages</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&theme=radical&hide_border=true" alt="Technology Stack" />
 </td>
 </tr>
 </table>
-
 </div>
 
 <div align="center">
-
-### 🔥 GitHub Streak
-
-<img
-src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
-alt="GitHub Streak"/>
-
+<h3>🔥 Development Streak</h3>
+<img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-
-### 📈 Contribution Activity
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=github-dark&hide_border=true&radius=12&custom_title=Contribution%20Graph"
-alt="Contribution Graph"/>
-
+<h3>📊 Contribution Activity</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -195,7 +170,9 @@ alt="Contribution Graph"/>
 ---
 
 <div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Portfolio Animation"/>
+
 </div>
 
 ---
