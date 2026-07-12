@@ -366,7 +366,7 @@ alt="Most Commit Language"/>
 
 <img
 width="40%"
-src="./github.svg"
+src="./github-metrics.svg"
 alt="Developer Metrics"/>
 
 </div>
