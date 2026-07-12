@@ -1,0 +1,36 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AIstar007
+          template: classic
+          base: header, activity, community, repositories
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          plugin_isocalendar: yes
+
+          plugin_followup: yes
+
+          plugin_achievements: yes
+
+          filename: github-metrics.svg
