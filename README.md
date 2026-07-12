@@ -355,6 +355,19 @@ alt="Most Commit Language"/>
 
 ---
 
+## <div align="center">🌃 MY GITHUB SKYLINE 🌃</div>
+
+<div align="center">
+
+<img
+width="100%"
+src="YOUR_SKYLINE_IMAGE_URL"
+alt="GitHub Skyline"/>
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=fadeIn&fontColor=ffffff"/>
 </div>
