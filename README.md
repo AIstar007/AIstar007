@@ -138,12 +138,13 @@
 <tr>
 
 <td align="center">
+<td align="center">
 <h3>📈 GitHub Statistics</h3>
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AIstar007&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2"
-alt="GitHub Stats"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIstar007&theme=radical"
+alt="GitHub Statistics"/>
 
 </td>
 
@@ -152,8 +153,8 @@ alt="GitHub Stats"/>
 
 <img
 height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIstar007&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400&v=2"
-alt="Technology Stack"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIstar007&theme=radical"
+alt="Most Used Languages"/>
 
 </td>
 
