@@ -198,11 +198,6 @@ alt="Profile Details"/>
 
 <img
 width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIstar007&theme=radical&utcOffset=5.5"
-alt="Productive Time"/>
-
-<img
-width="48%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIstar007&theme=radical"
 alt="Most Commit Language"/>
 
