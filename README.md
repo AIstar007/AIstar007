@@ -342,24 +342,6 @@ alt="Most Commit Language"/>
 
 ---
 
-## <div align="center">📈 ANALYTICS & INSIGHTS 📈</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits" />
-
-</div>
-
-<div align="center">
-<h3>🎯 Performance Overview</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Summary"/>
-</div>
-
----
-
 ## <div align="center">🌌 DEVELOPER METRICS 🌌</div>
 
 <div align="center">
@@ -382,6 +364,24 @@ width="70%"
 src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
 alt="GitHub Skyline"/>
 
+</div>
+
+---
+
+## <div align="center">📈 ANALYTICS & INSIGHTS 📈</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits" />
+
+</div>
+
+<div align="center">
+<h3>🎯 Performance Overview</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Summary"/>
 </div>
 
 ---
