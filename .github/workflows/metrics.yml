@@ -15,22 +15,67 @@ jobs:
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
+
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AIstar007
+
+          # =========================
+          # Core
+          # =========================
           template: classic
           base: header, activity, community, repositories
 
           config_timezone: Asia/Kolkata
 
+          # Reduce excessive repository processing
+          repositories: 100
+          repositories_batch: 100
+          repositories_affiliations: owner
+
+          # =========================
+          # Languages
+          # =========================
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
+          # Prevent a large repository from blocking rendering
+          plugin_languages_analysis_timeout: 5
+          plugin_languages_analysis_timeout_repositories: 3
+
+          # =========================
+          # Isometric calendar
+          # =========================
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
+          # =========================
+          # Follow-up
+          # =========================
           plugin_followup: yes
+          plugin_followup_indepth: no
+          plugin_followup_archived: yes
 
-          plugin_achievements: no
+          # =========================
+          # Rendering / reliability
+          # =========================
+          retries: 2
+          retries_delay: 60
 
+          # Do not fail the entire render because
+          # one optional plugin encounters an error
+          plugins_errors_fatal: no
+
+          # =========================
+          # Output
+          # =========================
           filename: github-metrics.svg
+
+          # SVG optimization
+          optimize: css, xml
+
+          # =========================
+          # Debug / verification
+          # =========================
+          verify: no
