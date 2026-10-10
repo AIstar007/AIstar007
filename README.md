@@ -1,20 +1,24 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+
+<img src="./hero.svg?v=4" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alen%20Thomas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20into%20Digital%20Reality&descAlignY=51&descAlign=50"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+
+<img src="./about-life.svg?v=4" alt="What I build and what I do for fun" width="100%"/>
+
 </div>
 
+<br/>
+
 <div align="center">
-  
-![Matrix SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=14&duration=30&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=████████████████████████████████████████████████████████;█+SYSTEM+INITIALIZED+█+STATUS%3A+ONLINE+█+USER%3A+ALEN+█;████████████████████████████████████████████████████████)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="Coding GIF"/>
 
 </div>
 
@@ -24,30 +28,30 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 ```yaml
 🧬 Alen.exe Profile:
-  version: "2024.1.0"
+  version: "2026.1.0"
   architecture: "Full-Stack"
   status: "Production Ready"
-  
+
 🎯 Core Competencies:
-  artificial_intelligence: 
+  artificial_intelligence:
     level: "Expert"
-    focus: ["Deep Learning", "Computer Vision", "NLP"]
+    focus: ["Agentic AI", "RAG", "Multi-Agent", "CV", "NLP"]
   cloud_computing:
     platforms: ["AWS", "GCP", "Azure"]
     specialization: "Serverless & Containerization"
   mobile_development:
     primary: "Android (Kotlin/Java)"
     integration: "ML Kit, Firebase"
-  
+
 🚀 Current Mission:
   objective: "Revolutionizing user experiences"
   approach: "AI-first development methodology"
   impact: "Scalable solutions for real-world problems"
-  
+
 💡 Innovation Philosophy:
   - "Simplicity is the ultimate sophistication"
   - "Code is poetry, architecture is art"
@@ -55,28 +59,25 @@
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
 
 ### 🎖️ Professional Highlights
-- 🏆 **0-1 Years** in Software Development
-- 🔥 **AI & ML** Engineer
+- 🏆 **Hackathon builder** shipping agentic AI & full-stack products
+- 🔥 **AI/ML & Full-Stack** Engineer
 - ⚡ **Cloud-Native** Architecture Specialist
-- 📱 **Mobile-First** Development Approach
-
+- 📱 **Android** development with ML Kit & Firebase
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=🔥+Available+for+exciting+collaborations+and+opportunities!;💼+Open+to+freelance+projects+and+consulting+work!;🌟+Let's+build+something+extraordinary+together!)](https://git.io/typing-svg)
 
-</div>
+🔥 **Open to collaborations, freelance projects and consulting work. Let's build something extraordinary together!**
 
-<div align="center">
+<br/>
 
 [![Email](https://img.shields.io/badge/Convey_on_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E57373)](mailto:alenthomas1809@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=66B2FF)](https://www.linkedin.com/in/alen-thomas-3558bb187/)
@@ -90,14 +91,9 @@
 ## <div align="center">🛠️ TECHNOLOGY ECOSYSTEM 🛠️</div>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
+
+<img src="./stack.svg?v=4" alt="Tech stack" width="100%"/>
+
 </div>
 
 <div align="center">
@@ -135,47 +131,44 @@
 ## <div align="center">📊 PERFORMANCE DASHBOARD 📊</div>
 
 <div align="center">
+
+<img src="./id-dashboard.svg?v=4" alt="Developer ID badge and stats dashboard" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
+<td align="center" valign="top">
 
-<td align="center">
-<td align="center">
-<h3>📈 GitHub Statistics</h3>
+### 📈 GitHub Statistics
 
-<img
-height="180em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIstar007&theme=radical"
-alt="GitHub Statistics"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIstar007&theme=radical" alt="GitHub Statistics"/>
 
 </td>
+<td align="center" valign="top">
 
-<td align="center">
-<h3>🏅 Languages</h3>
+### 🏅 Languages
 
-<img
-height="180em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIstar007&theme=radical"
-alt="Most Used Languages"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIstar007&theme=radical" alt="Most Used Languages"/>
 
 </td>
-
 </tr>
 </table>
 </div>
 
 <div align="center">
-<h3>🔥 Development Streak</h3>
-<img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-<h3>📊 Contribution Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
-</div>
+### 🔥 Development Streak
 
-<div align="center">
-<h3>📊 Contribution Heatmap</h3>
-<img src="https://ghchart.rshah.org/58A6FF/AIstar007" alt="GitHub Contribution Heatmap" />
+<img src="https://streak-stats.demolab.com?user=AIstar007&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+### 📊 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/58A6FF/AIstar007" alt="GitHub Contribution Heatmap"/>
+
 </div>
 
 ---
@@ -186,45 +179,21 @@ alt="Most Used Languages"/>
 
 <table>
 <tr>
-
 <td align="center">
 
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical"
-alt="Profile Details"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Details"/>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td align="center">
 
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIstar007&theme=radical&utcOffset=5.5"
-alt="Productive Time"/>
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIstar007&theme=radical"
-alt="Most Commit Language"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIstar007&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIstar007&theme=radical" alt="Most Commit Language"/>
 
 </td>
-
 </tr>
-
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Portfolio Animation"/>
 
 </div>
 
@@ -234,13 +203,38 @@ alt="Most Commit Language"/>
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Portfolio Animation"/>
+
+<br/>
+
 🌐 **Explore the full interactive experience:** [portfolio-website-alpha-nine-69.vercel.app](https://portfolio-website-alpha-nine-69.vercel.app/)
+
+</div>
+
+### 🔭 Featured projects
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Dynamic UI with Voice Integration** | A dynamic-UI playground where an agent drives the interface, with voice input via Sarvam | Next.js, CopilotKit |
+| **AI PR review → Microsoft Agent Framework** | Migrating a GitHub Actions AI pull-request review system onto the Microsoft Agent Framework | Python, GitHub Actions, MAF |
+
+<!-- TODO: link each project to its repo, and add more rows. -->
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Idea / hackathon brief] --> B[Agent design]
+    B --> C[RAG + tools]
+    C --> D[Full-stack app]
+    D --> E[Ship]
+```
 
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 **AI/ML INNOVATIONS**
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
@@ -260,7 +254,7 @@ alt="Most Commit Language"/>
 ![Status](https://img.shields.io/badge/Status-🔥_Active_Development-brightgreen?style=flat-square)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### ☁️ **CLOUD ARCHITECTURE**
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
@@ -282,7 +276,7 @@ alt="Most Commit Language"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 📱 **MOBILE EXCELLENCE**
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
@@ -302,7 +296,7 @@ alt="Most Commit Language"/>
 ![Status](https://img.shields.io/badge/Status-📱_User_Testing-orange?style=flat-square)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 **FULL-STACK SOLUTIONS**
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
@@ -329,7 +323,10 @@ alt="Most Commit Language"/>
 
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg">
+  <img alt="Snake animation" src="./snake/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -338,12 +335,12 @@ alt="Most Commit Language"/>
 ## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" />
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=6000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=%22Innovation+is+seeing+what+everybody+has+seen...%22;%22...and+thinking+what+nobody+else+has+thought.%22;%22Code+is+poetry%2C+architecture+is+art%2C+impact+is+everything.%22)](https://git.io/typing-svg)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" alt="Quote"/>
+
+<br/><br/>
+
+*"Innovation is seeing what everybody has seen and thinking what nobody else has thought."*
 
 </div>
 
@@ -353,10 +350,7 @@ alt="Most Commit Language"/>
 
 <div align="center">
 
-<img
-width="30%"
-src="./github-metrics.svg"
-alt="Developer Metrics"/>
+<img width="60%" src="./github-metrics.svg" alt="Developer Metrics"/>
 
 </div>
 
@@ -366,10 +360,11 @@ alt="Developer Metrics"/>
 
 <div align="center">
 
-<img
-width="70%"
-src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
-alt="GitHub Skyline"/>
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="My GitHub contributions as a 3D night-view city"/>
+
+<br/>
+
+<img width="70%" src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png" alt="GitHub Skyline"/>
 
 </div>
 
@@ -379,32 +374,25 @@ alt="GitHub Skyline"/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AIstar007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars" />
-<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AIstar007.AIstar007&left_text=Profile%20views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AIstar007?label=Followers&style=social" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/AIstar007?label=Total%20Stars&style=for-the-badge&color=FF6B35&labelColor=0D1117" alt="GitHub Stars"/>
+<img src="https://img.shields.io/badge/Total%20Commits-2000+-success?style=for-the-badge&labelColor=0D1117" alt="Total Commits"/>
 
-</div>
-
-<div align="center">
 <h3>🎯 Performance Overview</h3>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIstar007&theme=radical" alt="Profile Summary"/>
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=fadeIn&fontColor=ffffff"/>
-</div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+exploring+my+digital+universe!;Ready+to+collaborate+on+groundbreaking+projects%3F;Let's+connect+and+create+something+extraordinary!)](https://git.io/typing-svg)
+<img src="./connect.svg?v=4" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
 
-</div>
-
-<div align="center">
 <h2>🌟 "The best time to plant a tree was 20 years ago. The second best time is now." 🌟</h2>
 <h3>⭐ If you found value here, please star my repositories and let's build the future together! ⭐</h3>
 <h3>🚀 <a href="https://portfolio-website-alpha-nine-69.vercel.app/">Visit My Portfolio</a> 🚀</h3>
+
 </div>
