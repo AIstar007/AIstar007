@@ -280,8 +280,6 @@ alt="Most Commit Language"/>
 
 <div align="center">
 
-🌐 **Explore the full interactive experience:** [portfolio-website-alpha-nine-69.vercel.app](https://portfolio-website-alpha-nine-69.vercel.app/)
-
 </div>
 
 <table align="center" width="100%">
