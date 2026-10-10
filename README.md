@@ -1,16 +1,20 @@
 # <div align="center">🌌 Welcome to My Digital Universe 🌌</div>
 
 <div align="center">
-
-<img src="./hero.svg?v=3" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alen+Thomas;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alen%20Thomas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20into%20Digital%20Reality&descAlignY=51&descAlign=50"/>
+</div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+</div>
 
-<img src="./about-life.svg?v=3" alt="What I build and what I do for fun" width="100%"/>
+<div align="center">
+  
+![Matrix SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=14&duration=30&pause=99999&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=████████████████████████████████████████████████████████;█+SYSTEM+INITIALIZED+█+STATUS%3A+ONLINE+█+USER%3A+ALEN+█;████████████████████████████████████████████████████████)
 
 </div>
 
@@ -24,14 +28,14 @@
 
 ```yaml
 🧬 Alen.exe Profile:
-  version: "2026.1.0"
+  version: "2024.1.0"
   architecture: "Full-Stack"
   status: "Production Ready"
   
 🎯 Core Competencies:
   artificial_intelligence: 
     level: "Expert"
-    focus: ["Agentic AI Systems", "Multi-Agent Pipelines", "RAG Architectures", "Computer Vision", "NLP"]
+    focus: ["Deep Learning", "Computer Vision", "NLP"]
   cloud_computing:
     platforms: ["AWS", "GCP", "Azure"]
     specialization: "Serverless & Containerization"
@@ -56,18 +60,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
 ### 🎖️ Professional Highlights
-- 🏆 **Hackathon builder** shipping agentic AI & full-stack products
-- 🔥 **AI/ML & Full-Stack** Engineer
+- 🏆 **0-1 Years** in Software Development
+- 🔥 **AI & ML** Engineer
 - ⚡ **Cloud-Native** Architecture Specialist
-- 📱 **Android** development with ML Kit & Firebase
+- 📱 **Mobile-First** Development Approach
+
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-🔥 **Open to collaborations, freelance projects and consulting work. Let's build something extraordinary together!**
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=🔥+Available+for+exciting+collaborations+and+opportunities!;💼+Open+to+freelance+projects+and+consulting+work!;🌟+Let's+build+something+extraordinary+together!)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,9 +90,14 @@
 ## <div align="center">🛠️ TECHNOLOGY ECOSYSTEM 🛠️</div>
 
 <div align="center">
-
-<img src="./stack.svg?v=3" alt="Tech stack" width="100%"/>
-
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65"/>
 </div>
 
 <div align="center">
@@ -123,14 +133,6 @@
 ---
 
 ## <div align="center">📊 PERFORMANCE DASHBOARD 📊</div>
-
-<div align="center">
-
-<img src="./id-dashboard.svg?v=3" alt="Developer ID badge and stats dashboard" width="100%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 <table>
@@ -236,21 +238,6 @@ alt="Most Commit Language"/>
 
 </div>
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **Dynamic UI with Voice Integration** | A dynamic-UI playground where an agent drives the interface, with voice input via Sarvam | Next.js, CopilotKit |
-| **AI PR review → Microsoft Agent Framework** | Migrating a GitHub Actions AI pull-request review system onto the Microsoft Agent Framework | Python, GitHub Actions, MAF |
-
-<!-- TODO: link each project to its repo, and add more rows. -->
-
-```mermaid
-graph TD
-    A[Idea / hackathon brief] --> B[Agent design]
-    B --> C[RAG + tools]
-    C --> D[Full-stack app]
-    D --> E[Ship]
-```
-
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
@@ -340,10 +327,37 @@ graph TD
 
 ---
 
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 ## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham&border=true&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" />
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=6000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=%22Innovation+is+seeing+what+everybody+has+seen...%22;%22...and+thinking+what+nobody+else+has+thought.%22;%22Code+is+poetry%2C+architecture+is+art%2C+impact+is+everything.%22)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## <div align="center">🌌 DEVELOPER METRICS 🌌</div>
+
+<div align="center">
+
+<img
+width="30%"
+src="./github-metrics.svg"
+alt="Developer Metrics"/>
+
 </div>
 
 ---
@@ -353,9 +367,9 @@ graph TD
 <div align="center">
 
 <img
-  width="100%"
-  src="./profile-3d-contrib/profile-night-view.svg"
-  alt="GitHub Skyline"/>
+width="70%"
+src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
+alt="GitHub Skyline"/>
 
 </div>
 
@@ -380,8 +394,12 @@ graph TD
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=fadeIn&fontColor=ffffff"/>
+</div>
 
-<img src="./connect.svg?v=3" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thank+you+for+exploring+my+digital+universe!;Ready+to+collaborate+on+groundbreaking+projects%3F;Let's+connect+and+create+something+extraordinary!)](https://git.io/typing-svg)
 
 </div>
 
