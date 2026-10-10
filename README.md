@@ -18,6 +18,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="./hero.svg?v=5" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
+
+</div>
+
 ---
 
 ## <div align="center">⚡ DEVELOPER MATRIX ⚡</div>
@@ -36,6 +42,7 @@
   artificial_intelligence: 
     level: "Expert"
     focus: ["Deep Learning", "Computer Vision", "NLP"]
+    also: ["Agentic AI", "Multi-Agent", "RAG"]
   cloud_computing:
     platforms: ["AWS", "GCP", "Azure"]
     specialization: "Serverless & Containerization"
@@ -64,6 +71,8 @@
 - 🔥 **AI & ML** Engineer
 - ⚡ **Cloud-Native** Architecture Specialist
 - 📱 **Mobile-First** Development Approach
+- 🤖 **Agentic AI, multi-agent & RAG** systems
+- 🏁 **Hackathon builder** shipping full-stack products
 
 
 </td>
@@ -85,9 +94,21 @@
 
 </div>
 
+<div align="center">
+
+<img src="./about-life.svg?v=5" alt="What I build and what I do for fun" width="100%"/>
+
+</div>
+
 ---
 
 ## <div align="center">🛠️ TECHNOLOGY ECOSYSTEM 🛠️</div>
+
+<div align="center">
+
+<img src="./stack.svg?v=5" alt="Tech stack" width="100%"/>
+
+</div>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
@@ -135,10 +156,17 @@
 ## <div align="center">📊 PERFORMANCE DASHBOARD 📊</div>
 
 <div align="center">
+
+<img src="./id-dashboard.svg?v=5" alt="Developer ID badge and stats dashboard" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
 
-<td align="center">
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
 
@@ -238,6 +266,27 @@ alt="Most Commit Language"/>
 
 </div>
 
+### 🔭 Featured projects
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Dynamic UI with Voice Integration** | A dynamic-UI playground where an agent drives the interface, with voice input via Sarvam | Next.js, CopilotKit |
+| **AI PR review → Microsoft Agent Framework** | Migrating a GitHub Actions AI pull-request review system onto the Microsoft Agent Framework | Python, GitHub Actions, MAF |
+
+<!-- TODO: link each project to its repo, and add more rows. -->
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Idea / hackathon brief] --> B[Agent design]
+    B --> C[RAG + tools]
+    C --> D[Full-stack app]
+    D --> E[Ship]
+```
+
+</div>
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
@@ -333,6 +382,16 @@ alt="Most Commit Language"/>
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg">
+  <img alt="Contribution snake" src="./snake/github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+
 ---
 
 ## <div align="center">💭 WISDOM & INSPIRATION 💭</div>
@@ -366,6 +425,10 @@ alt="Developer Metrics"/>
 
 <div align="center">
 
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="My GitHub contributions as a 3D night-view city"/>
+
+<br/>
+
 <img
 width="70%"
 src="https://raw.githubusercontent.com/AIstar007/AIstar007/main/assets/github-skyline.png"
@@ -392,6 +455,12 @@ alt="GitHub Skyline"/>
 </div>
 
 ---
+
+<div align="center">
+
+<img src="./connect.svg?v=5" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=fadeIn&fontColor=ffffff"/>
