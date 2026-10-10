@@ -20,53 +20,6 @@
 
 ---
 
-<!-- ✨ ANIMATED PORTFOLIO — START (all new animated blocks live in this one section; cut from START to END to move it) -->
-
-## <div align="center">✨ ANIMATED PORTFOLIO ✨</div>
-
-<div align="center">
-
-<img src="./hero.svg?v=6" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
-
-<br/><br/>
-
-<img src="./about-life.svg?v=6" alt="What I build and what I do for fun" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🛰️ TECH ORBIT
-
-<img src="./stack.svg?v=6" alt="Tech stack" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🪪 DEV ID & LIVE STATS
-
-<img src="./id-dashboard.svg?v=6" alt="Developer ID badge and stats dashboard" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./connect.svg?v=6" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
-
-</div>
-
-<!-- ✨ ANIMATED PORTFOLIO — END -->
-
----
-
-
 ## <div align="center">⚡ DEVELOPER MATRIX ⚡</div>
 
 <table align="center" width="100%">
@@ -273,6 +226,52 @@ alt="Most Commit Language"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Project Portfolio Animation"/>
 
 </div>
+
+---
+
+<!-- ✨ ANIMATED PORTFOLIO — START (all new animated blocks live in this one section; cut from START to END to move it) -->
+
+## <div align="center">✨ ANIMATED PORTFOLIO ✨</div>
+
+<div align="center">
+
+<img src="./hero.svg?v=6" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
+
+<br/><br/>
+
+<img src="./about-life.svg?v=6" alt="What I build and what I do for fun" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛰️ TECH ORBIT
+
+<img src="./stack.svg?v=6" alt="Tech stack" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🪪 DEV ID & LIVE STATS
+
+<img src="./id-dashboard.svg?v=6" alt="Developer ID badge and stats dashboard" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./connect.svg?v=6" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
+
+</div>
+
+<!-- ✨ ANIMATED PORTFOLIO — END -->
 
 ---
 
