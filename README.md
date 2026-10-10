@@ -20,6 +20,97 @@
 
 ---
 
+<!-- ✨ ANIMATED PORTFOLIO — START (all new animated blocks live in this one section; cut from START to END to move it) -->
+
+## <div align="center">✨ ANIMATED PORTFOLIO ✨</div>
+
+<div align="center">
+
+<img src="./hero.svg?v=6" alt="Alen Thomas — AI/ML Engineer, agentic systems builder, full-stack developer" width="100%"/>
+
+<br/><br/>
+
+<img src="./about-life.svg?v=6" alt="What I build and what I do for fun" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛰️ TECH ORBIT
+
+<img src="./stack.svg?v=6" alt="Tech stack" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🪪 DEV ID & LIVE STATS
+
+<img src="./id-dashboard.svg?v=6" alt="Developer ID badge and stats dashboard" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔭 FEATURED PROJECTS
+
+</div>
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Dynamic UI with Voice Integration** | A dynamic-UI playground where an agent drives the interface, with voice input via Sarvam | Next.js, CopilotKit |
+| **AI PR review → Microsoft Agent Framework** | Migrating a GitHub Actions AI pull-request review system onto the Microsoft Agent Framework | Python, GitHub Actions, MAF |
+
+<!-- TODO: link each project to its repo, and add more rows. -->
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Idea / hackathon brief] --> B[Agent design]
+    B --> C[RAG + tools]
+    C --> D[Full-stack app]
+    D --> E[Ship]
+```
+
+</div>
+
+<div align="center">
+
+### 🌆 CONTRIBUTION CITY & SNAKE
+
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="My GitHub contributions as a 3D night-view city"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg">
+  <img alt="Contribution snake" src="./snake/github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 LET'S CONNECT
+
+<img src="./connect.svg?v=6" alt="Connect with me — GitHub, LinkedIn, email, portfolio" width="100%"/>
+
+</div>
+
+<!-- ✨ ANIMATED PORTFOLIO — END -->
+
+---
+
+
 ## <div align="center">⚡ DEVELOPER MATRIX ⚡</div>
 
 <table align="center" width="100%">
@@ -138,7 +229,6 @@
 <table>
 <tr>
 
-<td align="center">
 <td align="center">
 <h3>📈 GitHub Statistics</h3>
 
