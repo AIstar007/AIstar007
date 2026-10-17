@@ -169,7 +169,7 @@ alt="Most Used Languages"/>
 
 <div align="center">
 <h3>📊 Contribution Activity</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=nightowl&hide_border=true&custom_title=Alen's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIstar007&theme=tokyo-night&hide_border=true&custom_title=Alen%27s%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
